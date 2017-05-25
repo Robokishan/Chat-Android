@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kishan/.android/build-cache/506d87fd5b06203c1fd8a134d15c808e13ff421f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kishan/.android/build-cache/506d87fd5b06203c1fd8a134d15c808e13ff421f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

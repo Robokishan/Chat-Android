@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

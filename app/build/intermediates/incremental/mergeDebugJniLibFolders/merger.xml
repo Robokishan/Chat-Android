@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/run/media/kishan/Personal/DATABASE/Android_Projects/Socket_programming/app/src/debug/jniLibs"/></dataSet></merger>
